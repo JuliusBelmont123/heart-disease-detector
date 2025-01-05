@@ -27,9 +27,8 @@ The Heart Disease Detector is a web-based application that predicts the likeliho
 1. **Input Data:** Users enter their health metrics (e.g., age, blood pressure, cholesterol levels, etc.).
 2. **Model Prediction:** The Logistic Regression model predicts the likelihood of heart disease based on the input.
 3. **Result Display:** The result is displayed on the web interface with an appropriate message.
-## Acknowledgements
 
-#Dataset
+## Dataset
 -Source: Heart Disease Dataset
 -URL: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
@@ -44,15 +43,4 @@ The Heart Disease Detector is a web-based application that predicts the likeliho
    http://127.0.0.1:5000/
 ```
     
-## Structure
 
-Heart-Disease-Detector/
-├── static/
-│   ├── front.css
-├── templates/
-│   ├── index.html
-│   ├── pass.html
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── README.md
