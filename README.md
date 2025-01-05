@@ -36,7 +36,7 @@ The Heart Disease Detector is a web-based application that predicts the likeliho
 ## Installation
 
 ```bash
-   git clone <https://github.com/JuliusBelmont123/heart-disease-detector/>
+   git clone https://github.com/JuliusBelmont123/heart-disease-detector
    cd heart-disease-detector
    pip install -r requirements.txt
    python app.py
